@@ -1,11 +1,15 @@
 package BusquedaDeDocumentos;
 
 public class Buscador20PalabrasEnContenido extends Buscador {
+	private int cantPalabras;
+
+	public Buscador20PalabrasEnContenido(int cant){
+		this.cantPalabras = cant;
+	}
 
 	@Override
 	public boolean cumple(Documento doc) {
-		return false;
-		//doc.getContenido() >= 20;  COMO SE CUENTAN LAS PALABRAS
+		return doc.cantPalabrasClaves() > cantPalabras;
 	}
 
 }

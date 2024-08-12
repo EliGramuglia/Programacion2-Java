@@ -55,5 +55,9 @@ public class Documento {
 	public boolean loEscribioX(String autor) {
 		return this.autores.contains(autor);
 	}
+
+	public int cantPalabrasClaves(){
+		return this.palabrasClaves.size();
+	}
 	
 }

@@ -53,15 +53,16 @@ public class Planta {
 	}
 	
 	public void addNombre(String nombre) {
-		this.nombres.add(nombre);
+		if(!this.nombres.contains(nombre))
+			this.nombres.add(nombre);
 	}
 	
 	public String toString() {
 		return this.getNombreCientifico();
 	}
 	
-	public boolean siSeApodaLengua() {
-		return this.nombres.contains("lengua de suegra");
+	public boolean siSeApoda(String nombre) {
+		return this.nombres.contains(nombre);
 	}
 	
 	

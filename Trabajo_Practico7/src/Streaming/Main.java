@@ -31,8 +31,6 @@ public class Main {
 		
 		/*System.out.println(netflix.listarPelis(new FiltroTitulo("bella")));
 		System.out.println(netflix.listarPelis(new FiltroGenero("Drama")));
-		//Es lo mismo (probé las dos soluciones)
-		//System.out.println(netflix.listarPelis(new FiltroActorYDirector("Stallone", "Pepe")));
 		System.out.println(netflix.listarPelis(new FiltroAnd(new FiltroActor("Stallone"), new FiltroNot(new FiltroDirector("Pepe")))));
 		//
 		System.out.println(netflix.listarPelis(new FiltroEstrenoYDuracion()));*/
