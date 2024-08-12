@@ -1,4 +1,4 @@
-## Trabajo Práctico 1:  Identificar objetos que intervienen, su estado y comportamiento
+## Trabajo Práctico 2:  Identificar objetos que intervienen, su estado y comportamiento
 ---
 
 ## 1 Series
@@ -24,6 +24,8 @@ no es correcto imprimir un mensaje por pantalla y no cambiar el valor anterior.
 
 Nota. Para calcular los promedios, tener sólo en cuenta los episodios vistos 
 
+---
+
 ## 2 Agenda Personal
 
 Una agenda personal permite registrar reuniones en las que el usuario va a participar. En
@@ -34,6 +36,8 @@ contactos telefónicos y mail de los asistentes.
 Consejo: No todos los objetos son “palpables”
 
 Extra: ¿Quién detecta un conflicto de horarios?
+
+---
 
 ## 3 Sistema de Control de Gastos Públicos
 
@@ -46,6 +50,8 @@ país necesita un sistema que le informe cuales son las ciudades que gastan más
 Consejo: Tener en cuenta la información que contienen los distintos impuestos
 
 Extra: ¿En que afecta el tamaño de la ciudad? 
+
+---
 
 ## 4 Establecimiento deportivo
 
