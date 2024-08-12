@@ -14,13 +14,13 @@ una descripción, un creador y un género.
 Implementar en Java las clases involucradas, determinar qué clase es responsable de
 responder los siguientes servicios e implementar en Java.
 
-● Ingresar la calificación de un episodio. Si el valor ingresado como calificación
+- Ingresar la calificación de un episodio. Si el valor ingresado como calificación
 no es correcto imprimir un mensaje por pantalla y no cambiar el valor anterior.
-● Obtener el total episodios vistos de una temporada particular.
-● Obtener el total de episodios vistos de una serie.
-● Obtener el promedio de las calificaciones dadas para una temporada particular.
-● Obtener el promedio de las calificaciones dadas para una serie.
-● Determinar si se vio todos los episodios de la serie.
+- Obtener el total episodios vistos de una temporada particular.
+- Obtener el total de episodios vistos de una serie.
+- Obtener el promedio de las calificaciones dadas para una temporada particular.
+- Obtener el promedio de las calificaciones dadas para una serie.
+- Determinar si se vio todos los episodios de la serie.
 
 Nota. Para calcular los promedios, tener sólo en cuenta los episodios vistos 
 
