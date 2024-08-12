@@ -9,7 +9,7 @@ Facultad de Ciencias Excatas, UNICEN, Tandil.
 JAVA
 
 ### Contenido:
-- Trabajo Práctico 1:
+- Trabajo Práctico 1: Introducción a la POO
 - Trabajo Práctico 2:
 - Trabajo Práctico 3:
 - Trabajo Práctico 4:
