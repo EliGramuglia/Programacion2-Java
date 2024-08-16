@@ -1,6 +1,19 @@
 ## Trabajo Práctico 9:  Ejercicios complejos (de parciales anteriores). 
-- Uso de patrones de diseño: Composite
+
 - Búsquedas ordenadas
+- Uso de patrones de diseño: Composite
+
+● Intención:
+○ Componer objetos en jerarquías todo-parte y permitir a los clientes tratar objetos simples y compuestos de manera uniforme.
+
+● Ventajas:
+○ Permite tratamiento uniforme de objetos simples y complejos así como composiciones recursivas.
+○ Simplifica el código de los clientes, que sólo usan una interfaz ○ facilita añadir nuevos componentes sin afectar a los clientes
+
+● Inconvenientes:
+○ Es difícil restringir los tipos de los hijos
+○ Las operaciones de gestión de hijos en los objetos simples pueden
+presentar problemas: seguridad frente a flexibilidad
 
 ---
 
