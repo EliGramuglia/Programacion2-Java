@@ -7,7 +7,7 @@ Intención:
 
 Ventajas:
 - Permite tratamiento uniforme de objetos simples y complejos así como composiciones recursivas.
-- Simplifica el código de los clientes, que sólo usan una interfaz ○ facilita añadir nuevos componentes sin afectar a los clientes
+- Simplifica el código de los clientes, que sólo usan una interfaz.
 
 Inconvenientes:
 - Es difícil restringir los tipos de los hijos
