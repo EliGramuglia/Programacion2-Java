@@ -10,14 +10,12 @@ JAVA
 
 ### Contenido:
 - Trabajo Práctico 1: Introducción a la POO
-- Trabajo Práctico 2:
-- Trabajo Práctico 3:
-- Trabajo Práctico 4:
-- Trabajo Práctico 5:
-- Trabajo Práctico 6:
-- Trabajo Práctico 7:
-- Trabajo Práctico 8:
-- Trabajo Práctico 9:
-- Trabajo Práctico 10:
+- Trabajo Práctico 2: Identificar objetos, su estado y comportamiento
+- Trabajo Práctico 4: Herencia
+- Trabajo Práctico 5: Herencia y más Práctica
+- Trabajo Práctico 6: Abstracciones (Clases abstractas)
+- Trabajo Práctico 7: Búsquedas y Filtros
+- Trabajo Práctico 9: Ejercicios complejos (de parciales anteriores). Búsquedas ordenadas y uso de patrones de diseño.
+
 
 ### Alumna: Eliana Gramuglia
